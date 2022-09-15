@@ -3,25 +3,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Tasty &mdash; Free Website Template, Free HTML5 Template by freehtml5.co</title>
+	<title>Bugverse &mdash; For Testers.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
 	<meta name="author" content="freehtml5.co" />
-
-	<!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -66,7 +52,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.php">Tasty<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.php">BugVerse<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
@@ -98,8 +84,8 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1>The Best Coffee <em>&amp;</em> Restaurant <em>in</em> Brooklyn</h1>
-							<h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+							<h1>The Best Platform for Bug bounty hunters <em>in</em> World</h1>
+							<h2>Brought to you by <a href="https://www.youtube.com/channel/UCrLMzXuhj5uvsyKUXybaQcA" target="_blank">Stupidaschip</a></h2>
 						</div>
 					</div>
 				</div>
