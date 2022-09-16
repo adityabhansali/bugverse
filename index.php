@@ -102,9 +102,9 @@
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>The Restaurant</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae neque quisquam at deserunt ab praesentium architecto tempore saepe animi voluptatem molestias, eveniet aut laudantium alias, laboriosam excepturi, et numquam? Atque tempore iure tenetur perspiciatis, aliquam, asperiores aut odio accusamus, unde libero dignissimos quod aliquid neque et illo vero nesciunt. Sunt!</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam iure reprehenderit nihil nobis laboriosam beatae assumenda tempore, magni ducimus abentey.</p>
+						<h2>BUGVERSE</h2>
+						<p>Due to the increasing rates of cybercrime, companies get hacked due to some bugs. This system will provide security researchers a platform to perform various attacks so that they can update their skills, which can later result in a decrease in cybercrime rates.</p>
+						<p>One of the major disadvantages of the Security researcher is that they consume  more time finding companies to perform VAPT(vulnerability assessment and penetration testing) by sending mail to companies, hence, security researchers need a platform where they require companies which allow VAPT(vulnerability assessment and penetration testing) and also for companies. As they can’t give access to every security researcher, they needed a platform where they can get security researchers.</p>
 						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
 					</div>
 				</div>
