@@ -65,7 +65,7 @@
 								<ul class="dropdown">
 									<li><a href="blogs.php">Blogs</a></li>
 									<li><a href="leaderboards.php">leaderboards</a></li>
-									<li><a href="#">Coffees</a></li>
+									<li><a href="product.php">swags</a></li>
 								</ul>
 							</li>
 							<li><a href="about.php">About</a></li>
