@@ -1,5 +1,5 @@
 <?php
-	require 'database_con.php';
+	include 'database_con.php';
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -125,7 +125,11 @@
 						</div>
 					</div>
 				</div>
-				
+			
+			
+			
+			
+				<!-- Php integrated with database and latest blogs are udated -->
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
 						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
@@ -163,6 +167,9 @@
 		</div>
 	</div>
 
+
+
+	<!-- Thoughts of latest bug bounty hunters. -->
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
