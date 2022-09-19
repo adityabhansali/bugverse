@@ -1,3 +1,6 @@
+<?php
+	require 'database_con.php';
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
