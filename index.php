@@ -169,7 +169,7 @@
 
 
 
-	<!-- Thoughts of latest bug bounty hunters. -->
+	<!-- Thoughts of latest bug bounty hunters. Should load from database-->
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">

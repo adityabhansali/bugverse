@@ -198,13 +198,14 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Book a Table</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae enim quae vitae cupiditate, sequi quam ea id dolor reiciendis consectetur repudiandae. Rem quam, repellendus veniam ipsa fuga maxime odio? Eaque!</p>
-					<p><a href="reservation.php" class="btn btn-primary btn-outline">Book Now</a></p>
+					<h2>Stay away from the crowd (IntroVerse)</h2>
+					<p>An Web Application that keep you away from extroverts.<br> stay smart be smart <br> IntroVerse.</p>
+					<p><a href="#" class="btn btn-primary btn-outline">IntroVerse Site:</a></p>
 				</div>
 			</div>
 		</div>
 	</div>
+
 
 	<footer id="fh5co-footer" role="contentinfo" class="fh5co-section">
 		<div class="container">
