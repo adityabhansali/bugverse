@@ -59,7 +59,7 @@
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="menu.php">Menu</a></li>
+							<li><a href="resources.php">Menu</a></li>
 							<li class="has-dropdown">
 								<a href="gallery.php">Gallery</a>
 								<ul class="dropdown">
