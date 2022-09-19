@@ -54,23 +54,23 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.php">Tasty<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.php">BugVerse<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="resources.php">Menu</a></li>
+							<li><a href="resources.php">Resources</a></li>
 							<li class="has-dropdown">
-								<a href="gallery.php">Gallery</a>
+								<a href="gallery.php">Something More</a>
 								<ul class="dropdown">
-									<li><a href="#">Events</a></li>
-									<li><a href="#">Food</a></li>
+									<li><a href="blogs.php">Blogs</a></li>
+									<li><a href="leaderboards.php">leaderboards</a></li>
 									<li><a href="#">Coffees</a></li>
 								</ul>
 							</li>
-							<li><a href="reservation.php">Reservation</a></li>
 							<li><a href="about.php">About</a></li>
 							<li class="active"><a href="contact.php">Contact</a></li>
+							<li><a href="login.php">Login/Register</a></li>
 						</ul>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<h1>Get <em>in</em> Touch</h1>
-							<h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+							<h2>Brought to you by <a href="https://www.youtube.com/channel/UCrLMzXuhj5uvsyKUXybaQcA" target="_blank">Stupidaschip</a></h2>
 						</div>
 					</div>
 				</div>
@@ -101,14 +101,14 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Don't be shy, let's chat.</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae enim quae vitae cupiditate, sequi quam ea id dolor reiciendis consectetur repudiandae. Rem quam, repellendus veniam ipsa fuga maxime odio? Eaque!</p>
-					<p><a href="mailto:info@yourdomainname.com" class="btn btn-primary btn-outline">Contact Us</a></p>
+					<p>stay ahead from hackers.</p>
+					<p><a href="mailto:adityabhansalijain@gmail.com" class="btn btn-primary btn-outline">Contact Us</a></p>
 				</div>
 			</div>
 			
 			<div class="row">
 				<div class="col-md-6 col-md-push-6 col-sm-6 col-sm-push-6">
-					<form action="#" id="form-wrap">
+					<form action="#" id="get">
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label for="name">Your Name</label>
@@ -144,19 +144,19 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget">
-					<h4>Tasty</h4>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<h4>BugVerse</h4>
+					<p>A system that makes our world secure from hackers as well as teaches new upcoming hackers.</p>
 				</div>
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
 					<h4>Links</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Portfolio</a></li>
-						<li><a href="#">Blog</a></li>
-						<li><a href="#">About</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="gallery.php">Extra</a></li>
+						<li><a href="blogs.php">Blog</a></li>
+						<li><a href="about.php">About</a></li>
 					</ul>
 				</div>
-
+				<!-- Our integrations with other companies -->
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
 					<h4>Categories</h4>
 					<ul class="fh5co-footer-links">
@@ -183,15 +183,14 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; 2020 Stupidaschip. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="#" target="_blank">Aditya</a>and<a href="#" target="_blank">Dharmaraj</a></small>
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
 							<li><a href="#"><i class="icon-twitter2"></i></a></li>
 							<li><a href="#"><i class="icon-facebook2"></i></a></li>
 							<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble2"></i></a></li>
 						</ul>
 					</p>
 				</div>
