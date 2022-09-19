@@ -64,7 +64,7 @@
 							<li class="has-dropdown">
 								<a href="gallery.php">Something More</a>
 								<ul class="dropdown">
-									<li class="active"><a href="blogs.php">Blogs</a></li>
+									<li><a href="blogs.php">Blogs</a></li>
 									<li><a href="leaderboards.php">leaderboards</a></li>
 									<li><a href="#">Coffees</a></li>
 								</ul>
