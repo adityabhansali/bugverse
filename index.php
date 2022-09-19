@@ -118,10 +118,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>Today's Menu</h2>
+					<h2>Latest Attack's</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
+							<p>The gap between what you own and what you can protect puts you at risk. Attack resistance management closes the gap by continuously improving visibility and remediation across your evolving attack surface.</p>
 						</div>
 					</div>
 				</div>
@@ -261,8 +261,8 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<h2>Events</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, consequatur. Aliquam quaerat pariatur repellendus veniam nemo, saepe, culpa eius aspernatur cumque suscipit quae nobis illo tempora. Eum veniam necessitatibus, blanditiis facilis quidem dolore! Dolorem, molestiae.</p>
+					<h2>Our Blog's</h2>
+					<p>Read the <b>BugVerse</b> blog to learn strategies for strengthening your attack resistance with help from highly skilled ethical hackers. Improve your security profile and stay up to date on industry trends and emerging threats. </p>
 				</div>
 			</div>
 			<div class="row">
