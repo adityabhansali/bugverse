@@ -65,7 +65,8 @@ a:hover, a:active, a:focus {
 
 p {
   margin-bottom: 30px;
-  font-style: 18px;
+  font-style: 20px;
+  color: #d43f3a;
 }
 
 h1, h2, h3, h4, h5, h6, figure {

@@ -60,9 +60,9 @@
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
 							<li class="active"><a href="index.php">Home</a></li>
-							<li><a href="resources.php">Menu</a></li>
+							<li><a href="resources.php">Resources</a></li>
 							<li class="has-dropdown">
-								<a href="gallery.php">Gallery</a>
+								<a href="gallery.php">Something More</a>
 								<ul class="dropdown">
 									<li><a href="blogs.php">Blogs</a></li>
 									<li><a href="leaderboards.php">leaderboards</a></li>
@@ -177,7 +177,7 @@
 					<h2>Testimony</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis.</p>
+							<p>lets see what our hackers wants to say with their teachings.</p>
 						</div>
 					</div>
 				</div>
