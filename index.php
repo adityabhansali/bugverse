@@ -1,5 +1,5 @@
 <?php
-	include 'database_con.php';
+	//include 'database_con.php';
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -126,8 +126,7 @@
 					</div>
 				</div>
 
-				<!-- Php integrated with database and latest blogs are udated -->
-				<!-- <?php echo "load from database and print";?>	
+				<!-- Php integrated with database and latest blogs are updated -->
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
 						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
@@ -166,7 +165,6 @@
 	</div>
 
 
-
 	<!-- Thoughts of latest bug bounty hunters.-->
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
@@ -186,7 +184,7 @@
 				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
 					<blockquote>
 						<p> &ldquo;If you spend more on coffee than on IT security, you will be hacked. What's more, you deserve to be hacked.&rdquo;</p>
-						<p class="author"><cite>&mdash; Sashi "The Crazy Billa"</cite></p>
+						<p class="author"><cite>&mdash; Sashi "The Crazy Billi"</cite></p>
 					</blockquote>
 				</div>
 			</div>
