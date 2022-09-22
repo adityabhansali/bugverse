@@ -71,7 +71,7 @@
 							</li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="contact.php">Contact</a></li>
-							<li><a href="login.php">Login/Register</a></li>
+							<li><a href="login/login.php">Login/Register</a></li>
 						</ul>
 					</div>
 				</div>

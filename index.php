@@ -71,7 +71,7 @@
 							</li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="contact.php">Contact</a></li>
-							<li><a href="login.php">Login/Register</a></li>
+							<li><a href="./login/login.php">Login/Register</a></li>
 						</ul>
 					</div>
 				</div>
@@ -279,16 +279,7 @@
 					</ul>
 				</div>
 
-				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Categories</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Landing Page</a></li>
-						<li><a href="#">Real Estate</a></li>
-						<li><a href="#">Personal</a></li>
-						<li><a href="#">Business</a></li>
-						<li><a href="#">e-Commerce</a></li>
-					</ul>
-				</div>
+				
 
 				<div class="col-md-4 col-md-push-1 fh5co-widget">
 					<h4>Contact Information</h4>
