@@ -100,7 +100,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/hero_1.jpeg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+					<img width="135%" src="images/hero_img.jpeg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
@@ -125,11 +125,9 @@
 						</div>
 					</div>
 				</div>
-			
-			
-			
-			
+
 				<!-- Php integrated with database and latest blogs are udated -->
+				<!-- <?php echo "load from database and print";?>	
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
 						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
@@ -162,14 +160,14 @@
 						<span class="fh5co-price">$22<sup>.50</sup></span>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
 
 
 
-	<!-- Thoughts of latest bug bounty hunters. Should load from database-->
+	<!-- Thoughts of latest bug bounty hunters.-->
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
@@ -183,12 +181,12 @@
 				</div>
 
 				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/person_1.jpg" alt="">
+						<img src="images/testimonal.jpg" alt="can't load me" width="110%">
 				</div>
 				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
 					<blockquote>
-						<p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+						<p> &ldquo;If you spend more on coffee than on IT security, you will be hacked. What's more, you deserve to be hacked.&rdquo;</p>
+						<p class="author"><cite>&mdash; Sashi "The Crazy Billa"</cite></p>
 					</blockquote>
 				</div>
 			</div>
